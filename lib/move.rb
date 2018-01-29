@@ -8,4 +8,4 @@ end
 
 # code your input_to_index and move method here!
 def move(board, position, token = "X")
-  board[position.to
+  board[position.to_i-1]
