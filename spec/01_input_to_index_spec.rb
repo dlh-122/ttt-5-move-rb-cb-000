@@ -1,8 +1,5 @@
 require_relative "../lib/move.rb"
 
-def input_to_index(number)
-  number = gets.to_i
-end 
 
 describe '#input_to_index' do
 
